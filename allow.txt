@@ -1,0 +1,3 @@
+https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OW0nvc6V3e8tBjz3kF-9Oi8aDXeMc_3b3_ZHaVfL4eQsauT2rr2j-0eScm0uJc5uVpoCCmUNdbyGW6QmM3eONC8VfQhQ
+
+use that website to allow your google account to send emails from less-secured apps
