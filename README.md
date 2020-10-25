@@ -17,7 +17,7 @@
     GMAIL_USER = your e-mail
     GMAIL_PASS =your password
 ```
-> I have already required .env moduel for you on models/send line 1
+> I have already required .env moduel for you in models/send line 1
 ```
     require('dotenv').config()
 
