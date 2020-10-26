@@ -1,4 +1,4 @@
-### Just a personal mailing telmpalte for a contact form built with node js
+ym### Just a personal mailing telmplate for a contact form built with node js
 ## You can clone and try though,I just contributed to open source!
 # Allow Your email account to allow less secured apps to send emails to your gmail
 
